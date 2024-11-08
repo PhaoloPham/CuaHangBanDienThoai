@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\New folder\\MEGATECH\\",
+  "WorkspaceRootPath": "E:\\CNPMNC\\chucnang\\CuaHangBanDienThoai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|e:\\new folder\\megatech\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|e:\\cnpmnc\\chucnang\\cuahangbandienthoai\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8F3CF41E-D19D-4D91-AF21-190580B4A190}|MEGATECH.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Web.config",
-              "DocumentMoniker": "E:\\New folder\\MEGATECH\\Web.config",
+              "DocumentMoniker": "E:\\CNPMNC\\chucnang\\CuaHangBanDienThoai\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "E:\\New folder\\MEGATECH\\Web.config",
+              "ToolTip": "E:\\CNPMNC\\chucnang\\CuaHangBanDienThoai\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
