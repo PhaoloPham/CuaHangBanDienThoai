@@ -1,2 +1,2 @@
-# CongNghePhanMem2024
- Bài tập lớn nhóm 15 môn Công nghệ phần mềm
+# CongNghePhanMemNC2024
+ Nhóm 17 môn Công nghệ phần mềm
